@@ -1,0 +1,18 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.jks
+*.keystore
+local.properties
+
+# Firebase — never commit, provide per environment
+app/google-services.json
+
+# Generated
+app/build/
